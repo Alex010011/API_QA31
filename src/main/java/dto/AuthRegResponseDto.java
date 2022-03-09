@@ -8,7 +8,7 @@ import lombok.*;
 @Getter
 @ToString
 @Builder
-public class AuthResponseDto {
+public class AuthRegResponseDto {
 
     String token;
 

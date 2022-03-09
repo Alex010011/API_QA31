@@ -13,7 +13,7 @@ import lombok.*;
 @ToString
 @Builder
 
-public class AuthRequestDto {
+public class AuthRegRequestDto {
 
     String email;
     String password;
